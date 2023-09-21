@@ -1,0 +1,5 @@
+sentence-transformers==2.2.2
+nltk==3.8.1
+pymilvus==2.2.15
+jupyter
+pandas
